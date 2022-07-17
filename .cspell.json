@@ -1,6 +1,18 @@
 {
   "language": "en",
-  "words": ["Duolingo", "HackYourFuture", "HackYourFutureBelgium", "Sharma"],
+  "words": [
+    "CONTACTE",
+    "Duolingo",
+    "Ghasem",
+    "HackYourFuture",
+    "HackYourFutureBelgium",
+    "memorys",
+    "Mousavi",
+    "namber",
+    "Qasem",
+    "Sharma",
+    "tomach"
+  ],
   "ignorePaths": [
     "node_modules/**",
     "package.json",
