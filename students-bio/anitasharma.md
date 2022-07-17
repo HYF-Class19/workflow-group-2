@@ -7,8 +7,8 @@
 ### I am a computer science Teacher
 
 > Practice makes man perfect
-
-Learning
+> ![Profile Picture](https://avatars.githubusercontent.com/u/103582907?v=4)
+> Learning
 
 1. **French** on Duolingo
 2. _Coding_ at Hack Your Future
