@@ -1,6 +1,6 @@
 # Hi
 
-![my Image](../Q.jpg)push
+![my Image](../my%20photo..jpg)
 
 ---
 
