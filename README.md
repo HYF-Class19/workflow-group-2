@@ -1,48 +1,23 @@
-# (project name)
+# (Group 2)
 
 <!-- describe your project -->
 
-## Getting Started
+## Students List
 
-<!-- a guide to using this repository -->
+<!-- Students list start here -->
 
-1. `git clone git@github.com:HackYourFutureBelgium/<project-name>.git`
-2. `cd project-name`
-3. `npm install`
+| <img src="./students-bio/images/JohnEdelbi.jpg" height="200px" width="200px" alt="johnedelbi avatar" /> | <h3 id="johnedelbi">John Edelbi</h3><br>[johnedelbi](https://github.com/johnedelbi) \| [home page](https://johnedelbi.github.io) \| [bio](./students-bio/johnedelbi.md) |
+| ------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-## Code Quality Checks
+<details>
+<summary>John Edelbi's github stats</summary>
+<br>
 
-- `npm run format`: Makes sure all the code in this repository is well-formatted
-  (looks good).
-- `npm run lint:ls`: Will lint the folder and file names in this repository to
-  make sure they match the repo conventions.
-- `npm run lint:md`: Will lint all of the Markdown files in this repository and
-  let you know if there are any style mistakes to fix.
-- `npm run spell-check`: Goes through all the files in this repository looking
-  for words it doesn't recognize. Just because it says something is a mistake
-  doesn't mean it is! It doesn't know every word in the world. You can add new
-  correct words to the [./.cspell.json](./.cspell.json) file so they won't cause
-  an error.
+![johnedelbi github activity](https://ghchart.rshah.org/johnedelbi)
 
-## Continuous Integration (CI)
+![johnedelbi github stats](https://github-readme-stats.vercel.app/api?username=johnedelbi&show_icons=true&theme=default&hide_title=true&hide_rank=true)
 
-When you open a PR to `main`/`master` in your repository, GitHub will
-automatically do a linting check on the code in this repository, you can see
-this in the[./.github/workflows/lint.yml](./.github/workflows/lint.yml) file.
+</details>
+<hr style="width:60%;align:center">
 
-If the linting fails, you will not be able to merge the PR. You can double check
-that your code will pass before pushing by running `npm run lint:md` locally.
-
-## Repo Setup
-
-- Give each member _write_ access to the repo (if it's a group project)
-- Turn on GitHub Pages and put a link to your website in the repo's description
-- Turn on GitHub Actions
-- in the _Branches_ section of your repo's settings make sure:
-  - The repository
-    [requires a review](https://github.blog/2018-03-23-require-multiple-reviewers/)
-    before pull requests can be merged.
-  - The `master`/`main` branch must "_Require status checks to pass before
-    merging_"
-  - The `master`/`main` branch must "_Require require branches to be up to date
-    before merging_"
+<!-- Students list finish here -->
