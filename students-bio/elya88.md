@@ -1,5 +1,4 @@
---
-🌱 hellow its my first Group project
+-- 🌱 hellow its my first Group project
 
 # Hi I'm Elnura👋
 
@@ -15,6 +14,7 @@
 ```
 <h1>Hello HYF</h1>
 ```
+
 - CSS
 
 ```
@@ -22,11 +22,13 @@
     backgroud-color: white;
 }
 ```
+
 - JS
 
 ```
 console.log ('JS is fun with HYF');
 ```
+
 - Git/Github
 - UI/UX
 - PM
@@ -35,4 +37,5 @@ console.log ('JS is fun with HYF');
 ---
 
 ## My motivation
- 🌱 In a year i see myself in Google 
+
+🌱 In a year i see myself in Google
