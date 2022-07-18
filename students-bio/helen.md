@@ -1,8 +1,8 @@
+# About Helen⚡
+
 ![alt text](https://avatars.githubusercontent.com/u/108398781?s=400&u=718ef1209895dd423ffa838f7aca7cd7d3453fba&v=4)
 
-## About Helen⚡
-
-### sci-fi movie fanatic?💻
+## sci-fi movie fanatic?💻
 
 > In this self-introduction, I'm going to discuss Sci-fi films that
 > revolutionized my thought process. Often Sci-fi films play off the real
@@ -14,7 +14,7 @@
 > a world altered by time and technology, and these movies I have listed were
 > the best ones for me Rick and Morty,The Matrix, and Black Mirror.
 
-#### `I'm currently working on my self`👀😉
+### `I'm currently working on my self`👀😉
 
 - _Currently_ : Hack your Future web development student💻
 - _Previously_ : Full time Doctor 👩🏽‍🔬
@@ -22,7 +22,7 @@
 
 ---
 
-### skills
+#### skills
 
 | Language | skill    |
 | -------- | -------- |
@@ -32,7 +32,7 @@
 
 >
 
-## **Motto: “The only limit is your imagination”**
+##### **Motto: “The only limit is your imagination”**
 
 📫 How to reach me:😉 🤘
 
