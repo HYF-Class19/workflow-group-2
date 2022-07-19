@@ -29,8 +29,6 @@
 [bio](./students-bio/anitasharma.md)
 ![Anita Sharma ](https://avatars.githubusercontent.com/u/103582907?v=4)
 
-details>
-
 <summary>Anita Sharma's github stats</summary>
 
 ![Anita Sharma github activity](https://ghchart.rshah.org/anitasharma2022)
