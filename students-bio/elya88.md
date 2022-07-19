@@ -1,6 +1,6 @@
--- 🌱 hellow its my first Group project
+-- 🌱 hello its my first Group project
 
-# Hi I'm Elnura👋
+# Hi I'm Elnura 👋
 
 - I’m interested coding and PM
 - I’m currently learning html, css, js @ _Hack Your Future_ Belgium.
@@ -19,7 +19,7 @@
 
 ```
 .body{
-    backgroud-color: white;
+    background-color: white;
 }
 ```
 
