@@ -1,6 +1,16 @@
 {
   "language": "en",
-  "words": ["Duolingo", "HackYourFuture", "HackYourFutureBelgium", "Sharma"],
+  "words": [
+    "aquascaping",
+    "Duolingo",
+    "Edelbi",
+    "fintech",
+    "HackYourFuture",
+    "HackYourFutureBelgium",
+    "johnedelbi",
+    "Laeken",
+    "Sharma"
+  ],
   "ignorePaths": [
     "node_modules/**",
     "package.json",
