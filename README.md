@@ -4,7 +4,11 @@
 
 <!-- Students list start here -->
 
-## John Edelbi
+## Michael
+
+[Michael](/students-bio/mmugaiga.md)
+
+### John Edelbi
 
 [johnedelbi](https://github.com/johnedelbi) \|
 [home page](https://johnedelbi.github.io) \| [bio](./students-bio/johnedelbi.md)
