@@ -18,6 +18,6 @@
 
 ![johnedelbi github stats](https://github-readme-stats.vercel.app/api?username=johnedelbi&show_icons=true&theme=default&hide_title=true&hide_rank=true)
 
-</details>
+## </details>
 
 <!-- Students list finish here -->
