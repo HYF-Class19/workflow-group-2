@@ -39,3 +39,9 @@ console.log ('JS is fun with HYF');
 ## My motivation
 
 🌱 In a year i see myself in Google
+
+> be strong in your ideas
+>
+> ![Profile Picture](/students-bio/images/Elnura.JPG)
+>
+> loading ....
