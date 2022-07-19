@@ -14,7 +14,7 @@
 > a world altered by time and technology, and these movies I have listed were
 > the best ones for me Rick and Morty,The Matrix, and Black Mirror.
 
-### `I'm currently working on my self`👀😉
+### I'm currently working on my self👀😉
 
 - _Currently_ : Hack your Future web development student💻
 - _Previously_ : Full time Doctor 👩🏽‍🔬
@@ -28,7 +28,7 @@
 | -------- | -------- |
 | English  | _Fluent_ |
 | Amharic  | _Fluent_ |
-| Tigrigna | _Fluent_ |
+| Tigrinya | _Fluent_ |
 
 >
 
