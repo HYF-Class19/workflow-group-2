@@ -1,8 +1,0 @@
-{
-  "editor.formatOnSave": true,
-  "editor.tabSize": 2,
-  "files.autoSave": "onFocusChange",
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "editor.guides.indentation": true,
-  "cSpell.words": ["Morty"]
-}
