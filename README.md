@@ -38,4 +38,19 @@
 
 </details>
 
+## Michael Mugaiga
+
+[MichaelMugaiga](https://github.com/MichaelMugaiga) \|
+[home page](https://MichaelMugaiga.github.io/)\|[bio](./students-bio/mmugaiga.md)
+
+![Michael Mugaiga ](./students-bio/images/Michael.PNG)
+
+<details>
+<summary>Michael Mugaiga's github stats</summary>
+
+![Michael github activity](https://ghchart.rshah.org/MichaelMugaiga)
+
+![Michael github stats](https://github-readme-stats.vercel.app/api?username=MichaelMugaiga&show_icons=true&theme=default&hide_title=true&hide_rank=true)
+
+</details>
 <!-- Students list finish here -->
