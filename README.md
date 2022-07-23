@@ -9,7 +9,7 @@
 | ![Michael Mugaiga ](./students-bio/images/readme-Michael.png)  | [MichaelMugaiga](https://github.com/MichaelMugaiga) - [bio](./students-bio/mmugaiga.md)  |
 |     ![Helen](./students-bio/images/readme-helen-image.jpg)     |          [Helen](https://github.com/Helen-HYF) - [bio](./students-bio/helen.md)          |
 |                                                                |                                                                                          |
-|       ![Elnura](./students-bio/images/readme-elnura.JPG)       |         [Elnura](https://github.com/Elya88) - [bio](./students-bio/elnura.md)         |
+|       ![Elnura](./students-bio/images/readme-elnura.png)       |          [Elnura](https://github.com/Elya88) - [bio](./students-bio/elnura.md)           |
 |                                                                |                                                                                          |
 
 <!-- Students list finish here -->
