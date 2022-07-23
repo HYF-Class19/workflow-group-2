@@ -53,4 +53,20 @@
 ![Michael github stats](https://github-readme-stats.vercel.app/api?username=MichaelMugaiga&show_icons=true&theme=default&hide_title=true&hide_rank=true)
 
 </details>
+
+## Helen-HYF
+
+[Helen](https://github.com/Helen-HYF) \|
+[home page](https://github.com/Helen-HYF) \| [bio](./students-bio/helen.md)
+
+![Helen](https://avatars.githubusercontent.com/u/108398781?s=400&u=718ef1209895dd423ffa838f7aca7cd7d3453fba&v=4)
+
+<details>
+<summary>Helen-HYF github stats</summary>
+
+![Helen-HYF github activity](https://ghchart.rshah.org/Helen-HYF)
+
+![Helen-HYF github stats](https://github-readme-stats.vercel.app/api?username=Helen-HYF&show_icons=true&theme=default&hide_title=true&hide_rank=true)
+
+</details>
 <!-- Students list finish here -->
