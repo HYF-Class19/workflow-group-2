@@ -15,6 +15,6 @@
 
 > be strong in your ideas
 >
-> ![Profile Picture](/students-bio/images/Elnura.JPG)
+> ![Profile Picture](/students-bio/images/readme-elnura.png)
 >
 > loading ....
